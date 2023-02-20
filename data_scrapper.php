@@ -7,7 +7,7 @@
 
  * Version: 1.0
  * Author: Sheikh Saad
- * Author URI: https://sdtechnologist.com/
+ * Author URI: https://sheikhsaad.net/
  */
 if (!defined('ABSPATH')) {
     exit;
