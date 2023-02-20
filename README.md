@@ -12,9 +12,9 @@ Strip unwanted css, iframes, and/or videos from content
 Remove links from the content.
 Post to a selected category.
 
-<a href="https://wordpress.org/">
+<a href="https://wordpress.org/" target="_blank">
   <img align="left" alt="Sheikh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
 </a>
-<a href="https://www.ebay.com/">
+<a href="https://www.ebay.com/" target="_blank">
   <img align="left" alt="Sheikh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ebay.svg" />
 </a>
